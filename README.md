@@ -1,18 +1,14 @@
-### Hi there 👋
 
-# Professional Profile
 
-## Current Position
-
-- **Teacher at Le Wagon**
+**Lead Teacher at Le Wagon**
   - Specializing in **Data Science** and **Data Analytics**.
 
-## Education
 
-- **Masters in Data Science for Business**
+**Masters in Data Science for Business**
   - **Institutions**: HEC Paris and École Polytechnique (X).
   
 - **Alumni of IE University Madrid**
+- 
 <!--
 **raphaelamzallag/raphaelamzallag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
