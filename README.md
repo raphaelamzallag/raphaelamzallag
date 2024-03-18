@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**raphaelamzallag/raphaelamzallag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 # Professional Profile
 
 ## Current Position
@@ -17,6 +13,11 @@ Here are some ideas to get you started:
   - **Institutions**: HEC Paris and École Polytechnique (X).
   
 - **Alumni of IE University Madrid**
+<!--
+**raphaelamzallag/raphaelamzallag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
