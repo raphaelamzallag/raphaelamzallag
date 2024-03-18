@@ -7,6 +7,6 @@
 
 🧑‍💻 Currently learning [Data Engineering](https://app.datacamp.com/learn/career-tracks/data-engineer-in-python) in Python. <br/>
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaelamzallag)](https://github.com/anuraghazra/github-readme-stats)
 
 
