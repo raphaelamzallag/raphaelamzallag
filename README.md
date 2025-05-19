@@ -1,7 +1,7 @@
 
 
 ## Hi! I'm Raphaël
-🐶 Sofware Engineer Intern at [Datadog](https://www.datadoghq.com/). Revenue Query Team. 
+🐶 Sofware Engineer Intern at [Datadog](https://www.datadoghq.com/). Revenue Query Team.  <br/>
 👨‍🏫 Lead Teacher at [Le Wagon](https://www.lewagon.com/data-analytics-course) in Data Analytics. Teaching Assistant in Data Science. <br/>
 🇩🇪 Former Data Analyst at [SellerX Group](https://sellerx.com/) in Berlin, Germany.<br/>
 
